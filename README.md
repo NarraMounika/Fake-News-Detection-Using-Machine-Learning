@@ -29,7 +29,7 @@ Fake and real news datasets used for training the model.
 4. ML model predicts whether the news is fake or real
 
 ## Installation
-git clone https://github.com/yourusername/Fake-News-Detection-Using-Machine-Learning.git
+git clone https://github.com/NarraMounika/Fake-News-Detection-Using-Machine-Learning.git
 cd Fake-News-Detection-Using-Machine-Learning
 pip install -r requirements.txt
 python app.py
